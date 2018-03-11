@@ -138,6 +138,7 @@ You can change the styles of the scrollbars using CSS. e.g:
     ```css
     html {
         height: 100%;
+        overflow: hidden;
         /* or */
         height: 100vh;
         overflow: hidden;
